@@ -1,0 +1,18 @@
+item_id,restaurant_id,item_name,category,price,is_veg,last_updated
+M001,R001,Idli (2 pcs),Breakfast,35,Yes,2024-02-10
+M002,R001,Masala Dosa,Breakfast,60,Yes,2024-01-01
+M003,R002,Chettinad Chicken Curry,Main Course,220,No,2024-01-01
+M004,R003,Margherita Pizza (M),Pizza,299,Yes,2024-01-01
+M005,R004,Mini Meals,Meals,130,Yes,2024-02-12
+M006,R005,Chicken Biryani,Biryani,180,No,2024-01-01
+M007,R005,Veg Biryani,Snacks,150,Yes,2024-02-15
+M008,R006,Zinger Burger,Burger,199,No,2024-01-01
+M009,R007,Croissant,Bakery,60,Yes,2024-02-17
+M010,R008,Butter Chicken,Main Course,280,No,2024-01-01
+M011,R009,Idli (4 pcs),Breakfast,50,Yes,2024-01-01
+M012,R010,Farmhouse Pizza (L),Pizza,499,Yes,2024-01-01
+M013,R011,Chicken 65,Snacks,220,No,2024-02-19
+M014,R012,Parotta,Breakfast,20,Yes,2024-01-01
+M015,R013,Madurai Kari Dosa,Breakfast,85,No,2024-02-21
+M016,R005,Mutton Biryani,Biryani,220,No,2024-02-23
+M017,R014,Meals,Meals,100,Yes,2024-02-25

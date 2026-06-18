@@ -1,0 +1,8 @@
+order_id,customer_id,restaurant_id,item_id,order_date,amount,payment_mode,delivery_status,agent_id,last_updated
+ORD021,C001,R005,M006,2024-02-05,180,UPI,Delivered,A007,2024-02-05
+ORD022,C002,R012,M014,2024-02-06,20,Credit Card,Delivered,A004,2024-02-06
+ORD023,C021,R015,M017,2024-02-25,100,Cash,Delivered,A014,2024-02-25
+ORD024,C022,R001,M001,2024-02-26,35,UPI,Delivered,A002,2024-02-26
+ORD025,C023,R016,M016,2024-02-27,220,Credit Card,Delivered,A013,2024-02-27
+ORD026,C014,R004,M005,2024-02-10,130,UPI,Delivered,A001,2024-02-10
+ORD027,C016,R017,M011,2024-02-24,50,Cash,Delivered,A012,2024-02-24

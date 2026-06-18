@@ -1,0 +1,24 @@
+customer_id,name,phone,email,city,area,loyalty_tier,platform,last_updated
+C001,Arun Kumar,9841001234,arun.kumar@gmail.com,Chennai,Anna Nagar,Silver,Android,2024-01-01
+C002,Priya Nair,9841099999,priya.n.new@gmail.com,Chennai,T Nagar,Gold,iOS,2024-02-10
+C003,Rajesh Iyer,9841003456,rajesh.iyer@yahoo.com,Mumbai,Andheri,Bronze,Android,2024-02-12
+C004,Sneha Pillai,9841004567,sneha.pillai@gmail.com,Coimbatore,RS Puram,Silver,iOS,2024-01-01
+C005,Vikram Sharma,9841005678,vikram.sharma@gmail.com,Chennai,Velachery,Gold,Android,2024-01-01
+C006,Kavya Reddy,9841006789,kavya.reddy@gmail.com,Bangalore,Koramangala,Bronze,iOS,2024-01-01
+C007,Manoj Das,9841007890,manoj.das@gmail.com,Chennai,Mylapore,Silver,Android,2024-01-01
+C008,Ananya Singh,9841008901,ananya.singh@gmail.com,Chennai,OMR,Gold,iOS,2024-02-15
+C009,Deepak Verma,9841009012,deepak.verma@gmail.com,Chennai,Porur,Gold,Android,2024-01-01
+C010,Meena Rajan,9841055555,meena.rajan@gmail.com,Coimbatore,Gandhipuram,Silver,iOS,2024-02-18
+C011,Suresh Menon,9841011234,suresh.menon@gmail.com,Chennai,Nungambakkam,Gold,Android,2024-01-01
+C012,Lakshmi Bhat,9841012345,lakshmi.bhat@gmail.com,Chennai,Vadapalani,Bronze,iOS,2024-01-01
+C013,Ravi Chandran,9841013456,ravi.chandran@gmail.com,Madurai,Anna Nagar,Silver,Android,2024-01-01
+C014,Pooja Mehta,9841014567,pooja.new@gmail.com,Chennai,Sholinganallur,Gold,iOS,2024-02-20
+C015,Karthik Nair,9841015678,karthik.nair@gmail.com,Bangalore,Indiranagar,Silver,Android,2024-02-22
+C016,Divya Krishnan,9841016789,divya.krishnan@gmail.com,Chennai,Tambaram,Bronze,iOS,2024-01-01
+C017,Arjun Patel,9841017890,arjun.patel@gmail.com,Chennai,Guindy,Silver,Android,2024-01-01
+C018,Swathi Rao,9841018901,swathi.rao@gmail.com,Trichy,Thillai Nagar,Bronze,iOS,2024-01-01
+C019,Nikhil Joshi,9841019012,nikhil.joshi@gmail.com,Chennai,Besant Nagar,Gold,Android,2024-01-01
+C020,Asha Kumar,9841020123,asha.kumar@gmail.com,Chennai,Perambur,Bronze,iOS,2024-01-01
+C021,Ganesh Raman,9841021234,ganesh.raman@gmail.com,Coimbatore,Saibaba Colony,Silver,Android,2024-02-25
+C022,Preethi Shah,9841022345,preethi.shah@gmail.com,Chennai,Chromepet,Bronze,iOS,2024-02-26
+C023,Rajan Nambiar,9841023456,rajan.nambiar@gmail.com,Chennai,Perungudi,Gold,Android,2024-02-27

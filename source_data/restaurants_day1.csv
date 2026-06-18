@@ -1,0 +1,16 @@
+restaurant_id,name,owner_name,city,area,cuisine_type,avg_rating,price_range,last_updated
+R001,Murugan Idli Shop,Murugan K,Chennai,T Nagar,South Indian,4.5,Low,2024-01-01
+R002,Anjappar Chettinad,Annamalai R,Chennai,Anna Nagar,Chettinad,4.3,Medium,2024-01-01
+R003,Pizza Hut Express,Suresh M,Chennai,Velachery,Fast Food,3.8,High,2024-01-01
+R004,Saravana Bhavan,Saravana P,Chennai,Adyar,South Indian,4.7,Medium,2024-01-01
+R005,Biryani Blues,Farooq A,Chennai,OMR,Biryani,4.1,Medium,2024-01-01
+R006,KFC,Ramesh K,Chennai,Nungambakkam,Fast Food,3.9,High,2024-01-01
+R007,Hot Breads,Rajkumar S,Chennai,Mylapore,Bakery,4.0,Low,2024-01-01
+R008,Pind Balluchi,Harpreet S,Chennai,Egmore,North Indian,3.7,High,2024-01-01
+R009,Sangeetha Restaurant,Venkatesh M,Coimbatore,RS Puram,South Indian,4.4,Low,2024-01-01
+R010,Dominos Pizza,Arvind R,Chennai,Sholinganallur,Fast Food,4.0,Medium,2024-01-01
+R011,Buhari Hotel,Imran B,Chennai,Anna Salai,Multi-cuisine,4.2,Medium,2024-01-01
+R012,Amirtha Shakti,Krishnaswamy,Chennai,Perambur,South Indian,4.6,Low,2024-01-01
+R013,Vasantha Bhavan,Vasantha R,Madurai,Anna Nagar,South Indian,4.8,Low,2024-01-01
+R014,Maaligai Restaurant,Subramanian,Chennai,Tambaram,South Indian,4.3,Low,2024-01-01
+R015,Junior Kuppanna,Kuppanna S,Coimbatore,Gandhipuram,Chettinad,4.5,Medium,2024-01-01
