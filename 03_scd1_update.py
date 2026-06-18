@@ -1,7 +1,12 @@
+#  WHAT THIS DOES (SCD TYPE 1 LOGIC):
+#  For each table, compare Day2 CSV against what's currently in
+#  the dim table. If an SCD1 column changed (phone, email, price,
+#  avg_rating, owner_name, total_deliveries) -> OVERWRITE the
+#  existing row directly. No new row, no history kept.
+
 import pandas as pd
 import mysql.connector
 from db_config import DB_CONFIG
-
 
 def get_connection():
     return mysql.connector.connect(**DB_CONFIG)

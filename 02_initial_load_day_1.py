@@ -1,3 +1,15 @@
+# ================================================================
+#
+#  WHAT THIS DOES:
+#  Loads all 5 Day1 CSVs into the dimension and fact tables for
+#  the FIRST TIME. Every dimension row gets:
+#      effective_start_date = the date in the CSV
+#      effective_end_date   = NULL   (still open / current)
+#      is_current            = 1
+#
+#  This is the "Day 0" baseline. Day 2 scripts will compare
+#  against this data to detect SCD1 / SCD2 / new changes.
+# ================================================================
 import pandas as pd
 import mysql.connector
 from db_config import DB_CONFIG
